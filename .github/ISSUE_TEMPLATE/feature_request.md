@@ -1,18 +1,18 @@
 ---
-name: Feature Request
-about: Suggest a new feature for the project
+auteur: Nom de l'auteur
+nom : Demande de fonctionnalité
+à propos : Proposez une nouvelle fonctionnalité pour le projet
 ---
 
-## Feature Request
+Demande de fonctionnalité
+# Description
+Une description claire et concise de la fonctionnalité que vous demandez.
 
-**Description**
-A clear and concise description of the feature you are requesting.
+# Contexte
+Fournissez tout contexte supplémentaire ou des exemples pour soutenir la demande de fonctionnalité.
 
-**Context**
-Provide any additional context or examples to support the feature request.
+# Comportement attendu
+Décrivez le comportement attendu une fois que la fonctionnalité est mise en œuvre.
 
-**Expected Behavior**
-Describe the expected behavior once the feature is implemented.
-
-**Additional Information**
-Add any other information or screenshots about the feature request here.
+# Informations supplémentaires
+Ajoutez ici toutes les autres informations ou captures d'écran concernant la demande de fonctionnalité.
