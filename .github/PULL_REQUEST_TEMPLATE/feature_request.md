@@ -1,15 +1,22 @@
 ## Description
+[Description de la fonctionnalité ou du correctif apporté par la branche]
 
-[Description of the changes made in this Merge Request]
+## Tâches
+- [ ] Tâche 1
+- [ ] Tâche 2
 
-## Related Issues
+## Problèmes résolus
+[Liste des problèmes résolus par cette Merge Request]
 
-[Link to any related issues or tickets]
+## Screenshots
+[Le cas échéant, ajoutez des captures d'écran illustrant les changements effectués]
 
-## Proposed Changes
+## Notes de test
+[Instructions ou exigences spécifiques pour tester cette Merge Request]
 
-[Describe the proposed changes in this Merge Request]
+## Vérification
+- [ ] Les modifications ont été testées en local
+- [ ] Les modifications ont été déployées sur un environnement de test
 
-## Additional Information
-
-[Add any other relevant information or context]
+## D'autres informations
+[Toute autre information ou demande spécifique liée à la Merge Request]
