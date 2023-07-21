@@ -1,1 +1,68 @@
+# Fichiers et répertoires à ignorer
 
+# Fichiers générés par l'environnement de développement
+/node_modules/
+/.env
+
+# Fichiers générés par les éditeurs de texte
+*.swp
+*~
+*.swo
+
+# Fichiers de sauvegarde
+*.bak
+*.backup
+
+# Fichiers de logs
+/logs/
+*.log
+
+# Fichiers d'installation
+.DS_Store
+Thumbs.db
+
+# Répertoires de production ou de build
+/dist/
+/build/
+/out/
+
+# Fichiers de dépendances spécifiques à certains langages ou frameworks
+# Ajoutez ici les fichiers et répertoires spécifiques à votre projet
+
+# Répertoire de téléchargement
+/downloads/
+
+# Fichiers de configuration spécifiques à l'environnement local
+.env.local
+
+# Fichiers de cache
+/cache/
+*.cache
+
+# Fichiers de sauvegarde de base de données
+/*.sql
+
+# Fichiers de documentation générés
+/docs/
+
+# Fichiers de tests et de résultats de tests
+/tests/
+/results/
+
+# Fichiers de sauvegarde automatique de l'IDE
+.idea/
+.vscode/
+
+# Fichiers d'archives et de sauvegarde
+*.zip
+*.rar
+*.tar.gz
+
+# Fichiers de déploiement spécifiques à un service d'hébergement
+# Ajoutez ici les fichiers et répertoires spécifiques à votre projet
+
+# Fichiers de configuration spécifiques à l'IDE ou à l'éditeur de texte
+# Ajoutez ici les fichiers et répertoires spécifiques à votre projet
+
+# Autres fichiers et répertoires à ignorer
+# Ajoutez ici les fichiers et répertoires spécifiques à votre projet
